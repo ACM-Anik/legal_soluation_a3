@@ -18,3 +18,27 @@
 .bg-color{
     color:#F3F3F3;
 }
+.slider-image-1{
+    background-image: url('../images/slider-1-resize.png');
+    background-size:cover ;
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8));
+    height: 100%;
+    width: 100%;
+}
+.slider-image-2{
+    background-image: url('../images/slider-2-resize\ .png');
+    background-size:cover ;
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8));
+    height: 100%;
+    width: 100%;
+}
+.slider-image-3{
+    background-image: url('../images/slider-3-resize.png');
+    background-size:cover ;
+    background-image: linear-gradient(rgba(17, 17, 17, 0.8));
+    height: 100%;
+    width: 100%;
+}
+.slider-height{
+    height: 500px;
+}
