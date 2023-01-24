@@ -9,9 +9,12 @@
 }
 .bg-image{
     background-image: url('../images/banner.png');
-    background-size: cover;
+    background-size:cover;
     height:550px;
 }
 .white-2{
     color: rgb(214, 219, 223);
+}
+.bg-color{
+    color:#F3F3F3;
 }
